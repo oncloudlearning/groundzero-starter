@@ -5,3 +5,4 @@ Everyone who's completed the GroundZero "Set up GitHub" task, in the order they 
 | Name | EverCloud ID |
 |---|---|
 | _Example Learner_ | _EC-2026-00000_ |
+| Test Learner | EC-2026-99999 |
