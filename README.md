@@ -1,6 +1,22 @@
 # GroundZero Starter
 
-This is the real repo behind Odyssey GroundZero's "Set up GitHub" onboarding task. There's no trick to the exercise - the point is practicing the exact workflow working engineers use every day: fork, clone, branch, commit, push, pull request.
+**An [OnCloudLearning](https://oncloudlearning.com) Odyssey: GroundZero resource.**
+
+This repo is the real exercise behind Odyssey GroundZero's "Set up GitHub" onboarding task - the first real Git/GitHub workflow every participant completes, using the same fork → clone → branch → commit → push → pull request shape you'll use for every PR for the rest of the programme. There's no trick to it - the point is practicing the real workflow, not the edit itself.
+
+## Who this is for
+
+Anyone enrolled in OnCloudLearning's Odyssey: GroundZero pathway, working through the "Set up GitHub" task on their dashboard.
+
+## About OnCloudLearning, Odyssey, and EverCloud
+
+OnCloudLearning is the real learning platform and the owner of this programme. Odyssey is the practical engineering experience programme it runs, and GroundZero is Odyssey's foundations pathway. Some later GroundZero exercises are set inside **EverCloud Technologies** - a *fictional* organisation used purely as a realistic simulation backdrop for engineering scenarios, tickets, and environments. EverCloud doesn't own this repo, this programme, or OnCloudLearning itself.
+
+## Prerequisites
+
+- Git, installed locally (the "Prepare your workstation" onboarding task)
+- A GitHub account
+- A text editor - VS Code is what the workstation-prep task installs, but any editor works
 
 ## The task
 
@@ -23,5 +39,9 @@ This is the real repo behind Odyssey GroundZero's "Set up GitHub" onboarding tas
    ```
 6. **Open a pull request** from your fork's `add-me` branch back to **this** repo's `main` branch. GitHub will prompt you for this right after you push.
 7. **Paste the real PR URL** into the "Set up GitHub" task on your OnCloudLearning dashboard.
+
+## Next steps
+
+Once your PR is open, paste its URL into the "Set up GitHub" task on your dashboard - it's checked against this repo for real (not just a self-reported checkbox) before the task marks itself done. From there, head back to your dashboard to continue onboarding and unlock your first real mission.
 
 That's it - one real commit, one real PR, the same shape as every PR you'll open for the rest of this programme.
